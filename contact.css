@@ -1,0 +1,70 @@
+.post{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 60px;
+    margin-top: 40px;
+    margin-right: 60px;
+}
+
+.social{
+    background: linear-gradient(to right, #f8dfdf, #c5c7ed, #bbf0fb);
+    height: 13cm;
+}
+
+.socialtopic{
+    font-size: 60px;
+    padding: 40px 0px 0px 20px;
+}
+
+
+.socialmessage{
+    font-size: 18px;
+    margin: -40px 500px 0px 40px;
+}
+
+.socialimg{
+    width: 37%;
+    margin: -200px 0px 0px 830px;
+}
+
+.socialbox{
+    border-radius: 10px;
+    grid-template-columns: auto auto auto auto;
+    margin-top: -280px;
+}
+
+.whatsapp{
+    background: white;
+    width: 5cm;
+    height: 3cm;
+    border-radius: 10px;
+    margin: 0px 0px 0px 30px;
+}
+
+.boximg1{
+    width: 20%;
+    margin: 20px 20px 20px 70px;
+}
+
+.whatsapp p{
+    margin-top: -10px;
+    font-size: 20px;
+}
+
+.facebook{
+    background: white;
+    width: 5cm;
+    height: 3cm;
+    border-radius: 10px;
+    margin: -113px 0px 0px 250px;
+}
+
+.boximg2{
+    width: 20%;
+    margin: 20px 20px 20px 70px;
+}
+
+.facebook p{
+    margin-top: -10px;
+    font-size: 20px;
+}
